@@ -115,7 +115,14 @@ body {
   border-radius: 30px;
   text-align: center;
 }
-.anytime-image img {
+.anytime-background h6 {
+  color: #130f49;
+}
+.anytime-background p {
+  color: #130f49;
+  opacity: 0.4;
+}
+.anytime-background img {
   margin-top: 40px;
 }
 .any-background {
