@@ -72,6 +72,9 @@ body {
   align-items: center;
   justify-content: space-between;
 }
+.target-button i {
+  margin-right: 10px;
+}
 .anytime-section {
   margin-top: 100px;
   display: flex;
@@ -142,4 +145,54 @@ body {
 .any-text p {
   color: #130f49;
   opacity: 0.4;
+}
+.calories-background {
+  width: 400px;
+  height: 400px;
+  border-radius: 50%;
+  background-color: #cccccc;
+  background-image: linear-gradient(#fecfd0, #fecfd0);
+}
+.calories-background img {
+  width: 200px;
+  margin-left: 100px;
+}
+.calories-text h1 {
+  color: #130f49;
+  font-size: 50px;
+}
+.calories-text p {
+  color: #130f49;
+  opacity: 0.4;
+}
+.calories-text button {
+  background-color: #cce8fd;
+  border: none;
+  border-radius: 20px;
+  padding: 0px 20px;
+}
+.brand-image {
+  margin-top: 80px;
+}
+.join-background {
+  background-image: url(Rectangle-6.png);
+  width: auto;
+}
+.join-text {
+  margin-left: 100px;
+}
+.join-text h1 {
+  color: #130f49;
+  font-size: 50px;
+}
+.join-text button {
+  background-color: #cce8fd;
+  border: none;
+  border-radius: 20px;
+  padding: 0px 20px;
+}
+.join-image img {
+  margin-right: 100px;
+  margin-top: 20px;
+  width: 300px;
 }
