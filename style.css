@@ -1,6 +1,22 @@
 body {
   font-family: "Lato", sans-serif;
 }
+.nav-bar {
+  margin-top: 30px;
+}
+.nav-bar i {
+  margin-right: 5px;
+}
+.nav-bar a {
+  text-decoration: none;
+  color: #000000;
+  margin-right: 150px;
+}
+.our-app {
+  border: 1px solid gray;
+  padding: 10px 20px;
+  border-radius: 10px;
+}
 .hero-section {
   display: flex;
   align-items: center;
